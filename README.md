@@ -1,6 +1,6 @@
 ## Hey there, I’m Andreas 👋
 
-I’m a full-time Data Scientist and part-time AI Master’s student, who started tinkering with electronics and somehow ended up bossing around datasets. When I’m not convincing Python to do my bidding, I’m building dashboards in Vue that are *totally* not just pie charts with extra steps.
+I’m a full-time Data Scientist and part-time AI Master’s student, who started tinkering with electronics and somehow ended up bossing around datasets. When I’m not convincing Python to do my bidding, I’m building dashboards that are *totally* not just pie charts with extra steps.
 
 ### What’s in My Repo Wonderland?
 
