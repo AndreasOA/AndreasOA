@@ -4,7 +4,7 @@ I’m a full-time Data Scientist and part-time AI Master’s student, who starte
 
 ### What’s in My Repo Wonderland?
 
-- **Machine Learning & AI:** Models, models, and (wait for it) more models—because who doesn’t love watching computers guess stuff?
+- **Machine Learning & AI:** Models, because who doesn’t love watching computers guess stuff?
 - **Python Scripts:** Neat little programs that fix problems you didn’t know you had. Or break things you didn’t know could break.
 - **UI Adventures:** From browser-based dashboards to React Native apps and even a tiny Swift detour, I’m all about giving data a stylish makeover it never asked for.
 
